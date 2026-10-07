@@ -1,15 +1,14 @@
 # 🦖 Chrome Dino Terminal Game
 
-## Creator ( Tashfiq Onbir) 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Stars](https://img.shields.io/github/stars/tashfiqonbir/Dino-lite-?style=social)
 
 Google Chrome এর বিখ্যাত Dino Game এখন তোমার Termux এ!  
 কোনো Internet লাগবে না। শুধু Python দিয়েই খেলো 😎
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-green)
-![Score](https://img.shields.io/badge/High%20Score-999+-orange)
-
----
+# Design by (Tashfiq Onbir)
 
 ### ✨ Features
 
@@ -28,5 +27,5 @@ Google Chrome এর বিখ্যাত Dino Game এখন তোমার T
 ```bash
 pkg install python
 git clone https://github.com/tashfiqonbir/Dino-lite-
-cd Dino-lite-
+cd Dino-lite
 python dinosaur.py
