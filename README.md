@@ -28,4 +28,4 @@ Google Chrome এর বিখ্যাত Dino Game এখন তোমার T
 pkg install python
 git clone https://github.com/tashfiqonbir/Dino-lite-
 cd Dino-lite-
-python dinosaur.py
+python dino-lite.py
